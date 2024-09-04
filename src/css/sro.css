@@ -643,6 +643,10 @@ video {
     }
   }
   h1 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+  }
+  h1 {
     display: flex;
   }
   h1 {
@@ -694,28 +698,28 @@ video {
     }
   }
   #sro-mobile-toggler {
-    button {
+    a {
       display: flex;
     }
-    button {
+    a {
       width: 100%;
     }
-    button {
+    a {
       flex-direction: row;
     }
-    button {
+    a {
       align-items: center;
     }
-    button {
+    a {
       justify-content: center;
     }
-    button {
+    a {
       border-radius: 0.375rem;
     }
-    button {
+    a {
       padding: 0.625rem;
     }
-    button {
+    a {
       &#sro-close-button {
         --tw-bg-opacity: 1;
         background-color: rgb(0 0 0 / var(--tw-bg-opacity));
