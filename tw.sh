@@ -1,0 +1,1 @@
+npx tailwindcss -i ./src/css/_sro.css -o ./src/css/sro.css --watch
